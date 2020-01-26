@@ -53,6 +53,6 @@ if [ -f "$teamSpeakPid" ]
 #                                                             Author: SwiggyZero
 #                                                            Twitter: @SwiggyZero
 #                                                          Discord: SwiggyZero#00001
-#                                                  GitHub:  https://www.github.com/SwiggyZero
+#                                                  GitHub: https://www.github.com/SwiggyZero
 #
 # ------------------------------------------------------------------------------------------------------------------------------------------------
