@@ -2,7 +2,7 @@
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 #                   In 'teamSpeakDirectory', replace "~/this/is/a/place/holder" with your Team Speak server's direactory.
-#             IN 'teamSpeakPid', replace "~/this/is/a/place/holder" with your Team Speak server's directory BUT keep "ts3server.pid".
+#             In 'teamSpeakPid', replace "~/this/is/a/place/holder" with your Team Speak server's directory BUT keep "ts3server.pid".
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 teamSpeakDirectory=~/this/is/a/place/holder
