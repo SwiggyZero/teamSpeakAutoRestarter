@@ -9,10 +9,10 @@ teamSpeakDireactory=~/this/is/a/place/holder
 teamSpeakPid=~/this/is/a/place/holder/ts3server.pid
 
 if [ -f "$teamSpeakPid" ]
-	then
-		exit
-	else
-		cd "$teamSpeakDireactory"; ./ts3server_startscript.sh start
+  then
+    exit
+  else
+    cd "$teamSpeakDireactory"; ./ts3server_startscript.sh start
   fi
   
 # ------------------------------------------------------------------------------------------------------------------------------------------------
