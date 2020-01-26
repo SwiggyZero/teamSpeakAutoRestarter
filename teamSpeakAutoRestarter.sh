@@ -16,7 +16,7 @@ if [ -f "$teamSpeakPid" ]
   fi
   
 # ------------------------------------------------------------------------------------------------------------------------------------------------
-#                       Once you have replaced the direactorys, use the command "crontab -e" and paste this command
+#                       Once you have replaced the direactorys, use the command "crontab -e" and paste this command.
 #
 #                                    */2 * * * * bash ~/this/is/a/place/holder/teamSpeakAutoRestarter.sh
 #
