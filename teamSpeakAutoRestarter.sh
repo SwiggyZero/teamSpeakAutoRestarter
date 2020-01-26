@@ -20,7 +20,7 @@ if [ -f "$teamSpeakPid" ]
 #
 #                                    */2 * * * * bash ~/this/is/a/place/holder/teamSpeakAutoRestarter.sh
 #
-#                     NOTE: Make sure to change "~/this/is/a/place/holder" with directory where this script is located.
+#                   NOTE: Make sure to change "~/this/is/a/place/holder" with the directory where this script is located.
 #                Just replace the number(2) if you want to change when Crontab runs the script. It is set to check by minutes. 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
